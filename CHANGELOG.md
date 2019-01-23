@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Created `Brewfile` for quick configuration of development environment.
 - Created `.gitignore` for compatibility with JetBrains IDE.
 - Created `README.md` with documentation how to build and test image locally.
-- Created `docker-compose.yml` for streamlining local build flow.
+- Created `docker-compose.yml` and `Makefile` for streamlining local build flow.
 - Created `Jenkinsfile` for building image automatically and publish it to https://hub.docker.com/.
 
 [Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.53...HEAD
