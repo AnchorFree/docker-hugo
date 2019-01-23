@@ -11,6 +11,10 @@ Hugo executable in Docker Image based on official node image.
 
 * https://cloud.docker.com/u/anchorfree/repository/docker/anchorfree/hugo
 
+## CLOUD JENKINS
+
+* https://jenkins.anchorfree.net/job/anchorfree/job/docker-hugo/
+
 ## CONFIGURE ENVIRONMENT
 
 ### macOS
