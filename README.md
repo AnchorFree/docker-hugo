@@ -7,6 +7,10 @@ Hugo executable in Docker Image based on official node image.
 * https://github.com/gohugoio/hugo/releases/latest
 * https://gohugo.io/getting-started/quick-start/
 
+## DOCKER HUB
+
+* https://cloud.docker.com/u/anchorfree/repository/docker/anchorfree/hugo
+
 ## CONFIGURE ENVIRONMENT
 
 ### macOS
