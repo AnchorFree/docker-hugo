@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [v0.53] - 2017-06-20
+## [v0.53] - 2019-01-23
 ### Added
 - Created `Dockerfile` and `.dockerignore` for building base image with `hugo` executable based on `node:8.4.0` image.
 - Created `Brewfile` for quick configuration of development environment.
