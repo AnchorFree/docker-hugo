@@ -15,5 +15,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Created `docker-compose.yml` and `Makefile` for streamlining local build flow.
 - Created `Jenkinsfile` for building image automatically and publish it to https://hub.docker.com/.
 
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.53...HEAD
-[v0.53]: https://github.com/olivierlacan/keep-a-changelog/compare/eafe43a613905bdabd0627759f6d5c7658b321e5...v0.53
+[Unreleased]: https://github.com/AnchorFree/docker-hugo/compare/v0.53...HEAD
+[v0.53]: https://github.com/AnchorFree/docker-hugo/compare/eafe43a613905bdabd0627759f6d5c7658b321e5...v0.53
