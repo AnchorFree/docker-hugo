@@ -15,5 +15,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Created `docker-compose.yml` and `Makefile` for streamlining local build flow.
 - Created `Jenkinsfile` for building image automatically and publish it to https://hub.docker.com/.
 
+## [v0.30.2] - 2019-01-23
+### Deprecated
+- Hugo version downgraded to `0.30.2` to provide backward compatibility for www.hotspotshield.com
+
 [Unreleased]: https://github.com/AnchorFree/docker-hugo/compare/v0.53...HEAD
 [v0.53]: https://github.com/AnchorFree/docker-hugo/compare/eafe43a613905bdabd0627759f6d5c7658b321e5...v0.53
+[v0.30.2]: https://github.com/AnchorFree/docker-hugo/compare/v0.53...v0.30.2
